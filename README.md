@@ -10,6 +10,7 @@ The repo is this one: https://github.com/fabriziogianni7/5-t-swap-audit-fab
 
 ## Puppy Raffle Review
 
-Done following the amazing course from [cyfrin updraft](https://updraft.cyfrin.io/courses/security/)
+Done following the amazing course from [cyfrin updraft](https://updraft.cyfrin.io/courses/security/): https://github.com/Cyfrin/4-puppy-raffle-audit/tree/main 
+
 
 
